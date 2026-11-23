@@ -18,8 +18,6 @@
 
 **LIKELION 4호선톤 | TEAM 20**
 
-[Repository](https://github.com/LIKELION-4THON-TEAM20/Meetdle_FE) · [Convention](CONVENTION.md)
-
 </div>
 
 ---
